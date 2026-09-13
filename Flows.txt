@@ -1,0 +1,78 @@
+Artificial Intelligence
+│
+├── Rule-based AI
+│
+└── Machine Learning
+    │
+    ├── Traditional ML
+    │
+    └── Deep Learning
+        │
+        ├── Neural Networks
+        │
+        ├── Computer Vision
+        │
+        ├── Speech
+        │
+        └── Generative AI
+            │
+            ├── LLMs → Text / Code
+            ├── Image models → Images
+            ├── Audio models → Audio
+            └── Video models → Video
+
+
+---------------------------------------------------------------------------------
+
+
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Neural Networks
+        ↓
+Transformers
+        ↓
+Large Language Models
+        ↓
+Generative AI
+
+------------------------------------------------------------------------------
+
+AI
+│
+├── Machine Learning
+│   ├── Supervised Learning
+│   ├── Unsupervised Learning
+│   └── Reinforcement Learning
+│
+├── Deep Learning
+│   └── Neural Networks
+│
+├── Natural Language Processing
+│
+├── Computer Vision
+│
+└── Generative AI
+    ├── Text
+    ├── Images
+    ├── Audio
+    ├── Video
+    └── Code
+
+------------------------------------------------------------------------------------
+
+AI → making computers perform intelligent tasks.
+ML → computers learn patterns from data.
+Deep Learning → ML using multi-layer neural networks.
+Training → teaching the model using data.
+Inference → using the trained model on new input.
+Supervised Learning → learning with labeled answers.
+Unsupervised Learning → finding patterns without labels.
+Generative AI → generating new content.
+LLM → a large model designed to work with language.
+Responsible AI → building and using AI safely, fairly, and responsibly.
+
+---------------------------------------------------------------------------------
