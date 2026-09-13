@@ -76,3 +76,61 @@ LLM → a large model designed to work with language.
 Responsible AI → building and using AI safely, fairly, and responsibly.
 
 ---------------------------------------------------------------------------------
+
+ML --> Supervisedlearning
+   --> Unsupervisedlearning
+   --> Reinforcementlearning (interacts with environment)
+
+   Supervisedlearning --> Classification
+                      --> Regression
+
+   Unsupervisedlearning --> Clustering (partitonal , heirarchical)
+                        --> Association
+
+----------------------------------------------------------------------------------
+
+                         AI TOOLS
+                            │
+        ┌───────────────────┼───────────────────┐
+        ↓                   ↓                   ↓
+ Programming            ML / Data          Deep Learning
+   Tools                  Tools                Tools
+        │                   │                   │
+ Python                NumPy               TensorFlow
+ Jupyter               Pandas              PyTorch
+ VS Code               Matplotlib
+                       Scikit-learn
+                            │
+                            ↓
+                    Generative AI Tools
+                            │
+                ┌───────────┼───────────┐
+                ↓           ↓           ↓
+              LLMs       Image AI    AI APIs
+                │           │           │
+             GPT etc.   Image models   OpenAI etc.
+
+Tool — Main Purpose
+
+Python — AI/ML programming
+Jupyter — Interactive coding & experiments
+Google Colab — Cloud-based AI experimentation
+NumPy — Numerical computing
+Pandas — Data manipulation
+Matplotlib — Visualization
+Seaborn — Statistical visualization
+Scikit-learn — Traditional ML
+TensorFlow — Deep Learning
+Keras — Easy neural-network development
+PyTorch — Deep Learning
+Hugging Face — AI models & datasets
+AI APIs — Use AI models in applications
+LangChain — Build LLM applications
+Vector DB — Store/search embeddings
+Git — Version control
+GitHub — Code hosting/collaboration
+Docker — Application packaging/deployment
+AWS/Azure/GCP — Cloud infrastructure
+MLflow — ML experiment/lifecycle management
+
+------------------------------------------------------------------------------------
