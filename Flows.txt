@@ -134,3 +134,73 @@ AWS/Azure/GCP — Cloud infrastructure
 MLflow — ML experiment/lifecycle management
 
 ------------------------------------------------------------------------------------
+
+Input Data
+    ↓
+Weighted Sum
+    ↓
+Activation Function
+    ↓
+Hidden Layers
+    ↓
+Output / Prediction
+    ↓
+Loss Function
+    ↓
+Calculate Error
+    ↓
+Backpropagation
+    ↓
+Calculate Gradients
+    ↓
+Optimizer / Gradient Descent
+    ↓
+Update Weights & Biases
+    ↓
+Repeat Training
+
+---------------------------------------------------------------------------
+
+                    NEURAL NETWORK
+                          │
+                          ↓
+                    INPUT LAYER
+                          │
+                    Input Features
+                          │
+                          ↓
+                  ┌───────────────┐
+                  │ HIDDEN LAYER  │
+                  │ Weights +     │
+                  │ Bias +        │
+                  │ Activation    │
+                  └───────────────┘
+                          │
+                          ↓
+                  ┌───────────────┐
+                  │ HIDDEN LAYER  │
+                  │ Weights +     │
+                  │ Bias +        │
+                  │ Activation    │
+                  └───────────────┘
+                          │
+                          ↓
+                   OUTPUT LAYER
+                          │
+                          ↓
+                      PREDICTION
+                          │
+                          ↓
+                         LOSS
+                          │
+                          ↓
+                  BACKPROPAGATION
+                          │
+                          ↓
+                UPDATE PARAMETERS
+                          │
+                          ↓
+                      REPEAT
+
+-----------------------------------------------------------------------------------
+
